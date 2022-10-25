@@ -1,3 +1,3 @@
 # Login-and-Registration-form
 
-A simple login and registeration form using html,css,js,php, and mysql
+A simple login and registration form using HTML, CSS, JS, PHP, and MYSQL
